@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--synrafatestltms",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/289f52fc-daa6-4bd8-8e7d-0b0c0928e0da/resourceGroups/RG-ASU-LTMS/providers/Microsoft.Synapse/workspaces/synrafatestltms",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"synrafatestltms-ondemand.1d5ec902-f6b3-4446-85d4-954a51ae9458.sql.azuresynapse.net"
+		]
+	}
+}
